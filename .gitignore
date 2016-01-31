@@ -7,6 +7,7 @@
 
 # Java class files
 *.class
+*.iml
 
 # Generated files
 bin/
@@ -30,3 +31,7 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+.DS_Store
+
+
