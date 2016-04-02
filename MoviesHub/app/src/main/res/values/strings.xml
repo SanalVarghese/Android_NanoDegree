@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesHub</string>
+    <string name="movieDB_key">540cc6b8a369246b454e2c0b91426176</string>
+    <string name="title_activity_movies_detail">MoviesDetailActivity</string>
+    <string name="popularity_text">Popularity :</string>
+    <string name="release_date">Release Date:</string>
+    <string name="original_title_key">orginalTitle</string>
+    <string name="image_path">imageUrl</string>
+    <string name="description">description</string>
+    <string name="average_rating">avgRating</string>
+    <string name="total_rating">totalRating</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="poster_key">poster</string>
+    <string name="popularity_key">popularity</string>
+</resources>
